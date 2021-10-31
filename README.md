@@ -1,17 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 Welcome to my Github profile.  I hope you have fun looking around.
-<!--
-**MetcalfeTom/MetcalfeTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm currently leading the machine learning team at **Chattermill Analytics**, previously MLE at **Rasa**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I host the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
+
+- 📝 I write blog articles on machine learning and people learning - [thomasmetcalfe.com](http://www.thomasmetcalfe.com)
+
+- 🛠 I maintain **stable-baselines3-GPU** for GPU-accelerated reinforcement learning algorithms
+
+- 🌍 I’m an **active contributor** of machine learning and quantum computing libraries such as **Pytorch, Rasa & Qiskit**
+
+- 🔭 I’m currently working on **sequence to sequence models** and **learning to rank**
+
+- 📫 How to reach me: thomasjosephmetcalfe@gmail.com or message me [on LinkedIn](https://www.linkedin.com/feed/)
