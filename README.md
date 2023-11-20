@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.  I hope you have fun looking around.
 
-- 🧑‍💻 I'm currently Chief Data Scientist at **Twain**, previously MLE at **Rasa**
+- 🧑‍💻 I'm ex-Chief Data Scientist at **Twain**, previously MLE at **Rasa**
 
 - 💬 I host the [NLP study group](https://www.meetup.com/advanced-natural-language-processing-nlp-study-group/), the most popular NLP community on meetup.com
 
